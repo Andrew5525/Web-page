@@ -16,6 +16,23 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+
+
+ .pdfview{
+    margin: auto; 
+    display: block;
+    width: 800px;
+    height: 600px;
+ }
+.n-pdf{
+    margin-bottom: 20px;
+    color: #2e2249; 
+    width: 100%;
+    display: inline-block;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
 .contenedor {
     width: 90%;
     max-width: 1200px;
@@ -126,6 +143,15 @@ header {
     color: #9f8ad0
 }
 
+.n-Video{
+    margin-bottom: 20px;
+    color: #2e2249; 
+    width: 100%;
+    display: inline-block;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
 .number {
     display: inline-block;
     background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
@@ -228,7 +254,7 @@ header {
 
 /*Se viene el footer nea*/
 footer {
-    background: #9f8ad0;
+    background: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
     padding-bottom: 0.1px;
     /*colapsado de margenes para ello el pading o un border*/
 }
@@ -307,6 +333,14 @@ footer {
    .medico-salud{
         width: 80%;
     }
+
+    .pdfview{
+        margin: auto; 
+        display: block;
+        width: 90%;
+        height: 700px;
+     }
+
    .salud{
     margin-bottom: 30px;
    }
@@ -358,6 +392,14 @@ justify-content: center;
     top: 20px;
     right: 20px;
   }
+
+  .pdfview{
+    margin: auto; 
+    display: block;
+    width: 90px%;
+    height: 100vh;
+ }
+
   .titulo{
     font-size: 30px;
   }

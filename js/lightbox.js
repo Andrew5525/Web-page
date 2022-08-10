@@ -1,4 +1,4 @@
-const imagenes = document.querySelector('.Image-Tablas')
+/**const imagenes = document.querySelector('.Image-Tablas')
 const imagenesLight = document.querySelector('.agregar-imagen')
 const contenedorLight = document.querySelector('.image-light')
 console.log(imagenes)
@@ -15,6 +15,6 @@ imagenesLight.addEventListener('click',()=>{
     }
 })
 
-
+*/
 
      
