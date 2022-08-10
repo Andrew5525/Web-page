@@ -21,8 +21,11 @@ body {
  .pdfview{
     margin: auto; 
     display: block;
-    width: 800px;
-    height: 600px;
+    width: 850px;
+    height: 100vh;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, .6);
+   
  }
 .n-pdf{
     margin-bottom: 20px;
