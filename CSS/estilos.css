@@ -105,15 +105,21 @@ header {
 }
 
 .titulo {
+    color: rgb(36, 27, 27);
     font-size: 60px;
+    font-weight: bolder;
     margin-bottom: 15px;
 }
 
 .copy {
-    font-weight: 300;
+    font-weight: bold;
+    color: rgb(36, 27, 27);
     font-size: 25px;
 }
 
+.tips{
+ line-height: 30px;   
+}
 /*Tu salud auditiva*/
 .subtitulo {
     text-align: center;
